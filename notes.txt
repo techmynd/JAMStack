@@ -1,0 +1,10 @@
+https://jamstack.org/
+
+VuePress
+https://vuepress.vuejs.org/
+
+Gatsby
+https://www.gatsbyjs.org/
+
+
+https://www.staticgen.com
